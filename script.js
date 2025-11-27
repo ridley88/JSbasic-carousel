@@ -30,8 +30,3 @@ function showImage(i) {
   dots[index].className += " active";
 }
 
-// function test() {
-//   var images = document.getElementsByClassName("image");
-
-//   console.log(images);
-// }

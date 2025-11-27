@@ -19,7 +19,7 @@
   color: white;
   top: 43%;
   left: 0;
-  cursor: wait;
+  cursor: pointer;
   padding: 16px;
   font-weight: bold;
   font-size: 1.25rem;
@@ -33,7 +33,7 @@
   color: white;
   top: 43%;
   right: 0;
-  cursor: wait;
+  cursor: pointer;
   padding: 16px;
   font-weight: bold;
   font-size: 1.25rem;
@@ -43,7 +43,7 @@
 }
 
 #previous-button:hover,
-#next-button {
+#next-button:hover {
   background-color: rgba(0, 0, 0, 0.5);
 }
 
